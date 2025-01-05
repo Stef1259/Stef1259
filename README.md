@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as an Intern Software Engineer, focusing on creating scalable and efficient solutions. <br>👯 Studying Computer Science at the University of Westminster, UK.<br>🤝 I’m seeking help to become a better developer and solution provider.<br>🌱 Currently learning how to get my solutions from thought to reality.<br>⚡ Fun fact: I like learning different languages.
+Currently working as an Intern Software Engineer, focusing on creating scalable and efficient solutions. <br>mortar_board: Studying Computer Science at the University of Westminster, UK.<br>🤝 I’m seeking help to become a better developer and solution provider.<br>🌱 Currently learning how to get my solutions from thought to reality.<br>⚡ Fun fact: I like learning different languages.
 
 
 ## 🌐 Socials:
